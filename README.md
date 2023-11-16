@@ -1,2 +1,2 @@
-# Alx Simple Shell Project #
+# Simple Shell ALX Project #
 
